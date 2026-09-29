@@ -1,0 +1,9 @@
+{
+  "instructions": "Which queue should this support ticket go to?",
+  "criteria": {
+    "1": "Billing: charges, invoices, refunds, plan changes",
+    "2": "Bug: something in the product is broken or shows an error",
+    "3": "Account: sign in, password, two factor, deleting the account",
+    "4": "Feature request: asking for something the product does not do yet"
+  }
+}
