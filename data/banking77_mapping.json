@@ -1,0 +1,98 @@
+{
+ "source": "Banking77 test split, PolyAI, CC BY 4.0, github.com/PolyAI-LDN/task-specific-datasets",
+ "teams": {
+  "1": [
+   "card_arrival",
+   "card_linking",
+   "card_delivery_estimate",
+   "card_not_working",
+   "pin_blocked",
+   "contactless_not_working",
+   "getting_virtual_card",
+   "card_acceptance",
+   "get_physical_card",
+   "visa_or_mastercard",
+   "disposable_card_limits",
+   "change_pin",
+   "getting_spare_card",
+   "order_physical_card",
+   "virtual_card_not_working",
+   "get_disposable_virtual_card",
+   "activate_my_card",
+   "card_about_to_expire",
+   "apple_pay_or_google_pay",
+   "declined_card_payment",
+   "pending_card_payment",
+   "reverted_card_payment?"
+  ],
+  "2": [
+   "lost_or_stolen_card",
+   "compromised_card",
+   "lost_or_stolen_phone",
+   "card_payment_not_recognised",
+   "direct_debit_payment_not_recognised",
+   "cash_withdrawal_not_recognised"
+  ],
+  "3": [
+   "automatic_top_up",
+   "pending_top_up",
+   "top_up_limits",
+   "top_up_reverted",
+   "topping_up_by_card",
+   "verify_top_up",
+   "top_up_by_cash_or_cheque",
+   "top_up_failed",
+   "balance_not_updated_after_cheque_or_cash_deposit"
+  ],
+  "4": [
+   "cancel_transfer",
+   "transfer_not_received_by_recipient",
+   "declined_transfer",
+   "pending_transfer",
+   "transfer_timing",
+   "beneficiary_not_allowed",
+   "receiving_money",
+   "failed_transfer",
+   "transfer_into_account",
+   "balance_not_updated_after_bank_transfer"
+  ],
+  "5": [
+   "pending_cash_withdrawal",
+   "wrong_amount_of_cash_received",
+   "atm_support",
+   "declined_cash_withdrawal",
+   "card_swallowed"
+  ],
+  "6": [
+   "exchange_rate",
+   "card_payment_wrong_exchange_rate",
+   "extra_charge_on_statement",
+   "exchange_via_app",
+   "card_payment_fee_charged",
+   "request_refund",
+   "Refund_not_showing_up",
+   "transfer_fee_charged",
+   "wrong_exchange_rate_for_cash_withdrawal",
+   "exchange_charge",
+   "cash_withdrawal_charge",
+   "top_up_by_card_charge",
+   "top_up_by_bank_transfer_charge",
+   "transaction_charged_twice"
+  ],
+  "7": [
+   "age_limit",
+   "edit_personal_details",
+   "why_verify_identity",
+   "unable_to_verify_identity",
+   "passcode_forgotten",
+   "terminate_account",
+   "verify_source_of_funds",
+   "verify_my_identity"
+  ]
+ },
+ "excluded": [
+  "supported_cards_and_currencies",
+  "fiat_currency_support",
+  "country_support"
+ ]
+}

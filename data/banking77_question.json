@@ -1,0 +1,12 @@
+{
+ "instructions": "Which support team should handle this customer message?",
+ "criteria": {
+  "1": "Cards: ordering, delivery, activation, PIN, virtual cards, Apple Pay or Google Pay, a card that does not work, card payments that are pending or declined",
+  "2": "Security: a lost, stolen or compromised card or phone, or a payment or withdrawal the customer does not recognise",
+  "3": "Top ups: adding money to the account by card, bank transfer, cash or cheque",
+  "4": "Transfers: sending or receiving money between bank accounts",
+  "5": "Cash and ATMs: withdrawing cash, a machine that kept the card or gave the wrong amount",
+  "6": "Fees, exchange rates and refunds: unexpected charges, currency exchange, refunds, being charged twice",
+  "7": "Account and identity: verifying identity, personal details, passcode, age or source of funds, closing the account"
+ }
+}
